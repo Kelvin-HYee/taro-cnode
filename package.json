@@ -17,7 +17,7 @@
     "@tarojs/async-await": "^1.0.2",
     "@tarojs/components": "^1.0.2",
     "@tarojs/redux": "^1.0.2",
-    "@tarojs/redux-h5": "^1.0.2",
+    "@tarojs/redux-h5": "^1.1.9",
     "@tarojs/router": "^1.0.2",
     "@tarojs/taro": "^1.0.2",
     "@tarojs/taro-h5": "^1.0.2",
